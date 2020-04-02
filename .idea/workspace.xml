@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fd45b1f-ee9a-4530-9234-aa356233dbd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZonjkGnIs3XlVtApXmzgbNcY5L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/adopcion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonEnvironments\refugio\templates\adopcion" />
+      <recent name="D:\PythonEnvironments\refugio\templates\mascota" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fd45b1f-ee9a-4530-9234-aa356233dbd3" name="Default Changelist" comment="" />
+      <created>1585514452654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585514452654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="91" key="#Inspections" timestamp="1585515980438">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="91" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1585515980438" />
+    <state x="565" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585788454184">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="565" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1585788454184" />
+    <state x="508" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1585544410672">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="508" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585544410672" />
+    <state x="507" y="64" width="586" height="732" key="find.popup" timestamp="1585515316997">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="64" width="586" height="732" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1585515316997" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1585710884775">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1585710884775" />
+  </component>
+</project>
